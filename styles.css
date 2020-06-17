@@ -1,0 +1,36 @@
+.container
+{
+    opacity: 0.7;
+    border-bottom: 3px solid rgb(61, 95, 243);
+}
+#section2 {
+    background-color: darkgray;
+}
+
+#A-propos {
+    background-color: rgb(207, 201, 201);
+}
+
+#Contact {
+    background-color: slategrey;
+}
+
+#footer {
+    background-color: blue
+}
+
+#hover:hover {
+    background-color: blue!important;
+}
+.image{
+   padding-right: 15px;
+   margin-right: auto; 
+}
+#tete {
+    background-color: grey;
+    opacity: 0.8;
+}
+
+#outline {
+    text-decoration: none;
+
